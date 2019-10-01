@@ -1,0 +1,9 @@
+div{
+   border: 1px solid black;
+   text-align: center;
+   color: red;
+}
+.col-md-1{
+    background:red;
+    border: 1px solid black;
+}
